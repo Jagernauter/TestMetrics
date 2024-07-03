@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IP Address Tracker</title>
+    <!-- Вставьте сюда теги Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=8435001870"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '8435001870');
+        gtag('config', 'G-EMRJF31RW1');
+    </script>
+</head>
+<body>
+    <h1>Пожалуйста, перейдите по ссылке для определения вашего IP-адреса.</h1>
+    <!-- Вставьте здесь любой дополнительный контент, который нужно показать вашей бабушке -->
+</body>
+</html>
